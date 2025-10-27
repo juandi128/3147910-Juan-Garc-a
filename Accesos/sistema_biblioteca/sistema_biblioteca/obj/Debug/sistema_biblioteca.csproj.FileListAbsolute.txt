@@ -1,0 +1,7 @@
+C:\Users\juanp\source\repos\3147910-Juan García\Accesos\sistema_biblioteca\sistema_biblioteca\bin\Debug\sistema_biblioteca.exe.config
+C:\Users\juanp\source\repos\3147910-Juan García\Accesos\sistema_biblioteca\sistema_biblioteca\bin\Debug\sistema_biblioteca.exe
+C:\Users\juanp\source\repos\3147910-Juan García\Accesos\sistema_biblioteca\sistema_biblioteca\bin\Debug\sistema_biblioteca.pdb
+C:\Users\juanp\source\repos\3147910-Juan García\Accesos\sistema_biblioteca\sistema_biblioteca\obj\Debug\sistema_biblioteca.csproj.AssemblyReference.cache
+C:\Users\juanp\source\repos\3147910-Juan García\Accesos\sistema_biblioteca\sistema_biblioteca\obj\Debug\sistema_biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\juanp\source\repos\3147910-Juan García\Accesos\sistema_biblioteca\sistema_biblioteca\obj\Debug\sistema_biblioteca.exe
+C:\Users\juanp\source\repos\3147910-Juan García\Accesos\sistema_biblioteca\sistema_biblioteca\obj\Debug\sistema_biblioteca.pdb

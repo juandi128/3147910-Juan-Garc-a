@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juanp\\source\\repos\\3147910-Juan Garc\u00EDa\\Accesos\\sistema_biblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EAF8531-3363-4D32-A904-57113311B920}|sistema_biblioteca\\sistema_biblioteca.csproj|c:\\users\\juanp\\source\\repos\\3147910-juan garc\u00EDa\\accesos\\sistema_biblioteca\\sistema_biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EAF8531-3363-4D32-A904-57113311B920}|sistema_biblioteca\\sistema_biblioteca.csproj|solutionrelative:sistema_biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EAF8531-3363-4D32-A904-57113311B920}|sistema_biblioteca\\sistema_biblioteca.csproj|c:\\users\\juanp\\source\\repos\\3147910-juan garc\u00EDa\\accesos\\sistema_biblioteca\\sistema_biblioteca\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EAF8531-3363-4D32-A904-57113311B920}|sistema_biblioteca\\sistema_biblioteca.csproj|solutionrelative:sistema_biblioteca\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EAF8531-3363-4D32-A904-57113311B920}|sistema_biblioteca\\sistema_biblioteca.csproj|c:\\users\\juanp\\source\\repos\\3147910-juan garc\u00EDa\\accesos\\sistema_biblioteca\\sistema_biblioteca\\librodigital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EAF8531-3363-4D32-A904-57113311B920}|sistema_biblioteca\\sistema_biblioteca.csproj|solutionrelative:sistema_biblioteca\\librodigital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LibroDigital.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\source\\repos\\3147910-Juan Garc\u00EDa\\Accesos\\sistema_biblioteca\\sistema_biblioteca\\LibroDigital.cs",
+              "RelativeDocumentMoniker": "sistema_biblioteca\\LibroDigital.cs",
+              "ToolTip": "C:\\Users\\juanp\\source\\repos\\3147910-Juan Garc\u00EDa\\Accesos\\sistema_biblioteca\\sistema_biblioteca\\LibroDigital.cs",
+              "RelativeToolTip": "sistema_biblioteca\\LibroDigital.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T20:22:59.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "libro.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\source\\repos\\3147910-Juan Garc\u00EDa\\Accesos\\sistema_biblioteca\\sistema_biblioteca\\libro.cs",
+              "RelativeDocumentMoniker": "sistema_biblioteca\\libro.cs",
+              "ToolTip": "C:\\Users\\juanp\\source\\repos\\3147910-Juan Garc\u00EDa\\Accesos\\sistema_biblioteca\\sistema_biblioteca\\libro.cs",
+              "RelativeToolTip": "sistema_biblioteca\\libro.cs",
+              "ViewState": "AgIAAB0AAABgzczMzKwwwBMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T20:19:55.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\source\\repos\\3147910-Juan Garc\u00EDa\\Accesos\\sistema_biblioteca\\sistema_biblioteca\\Program.cs",
+              "RelativeDocumentMoniker": "sistema_biblioteca\\Program.cs",
+              "ToolTip": "C:\\Users\\juanp\\source\\repos\\3147910-Juan Garc\u00EDa\\Accesos\\sistema_biblioteca\\sistema_biblioteca\\Program.cs",
+              "RelativeToolTip": "sistema_biblioteca\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T20:19:34.367Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

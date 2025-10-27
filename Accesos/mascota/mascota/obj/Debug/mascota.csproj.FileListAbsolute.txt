@@ -1,0 +1,7 @@
+C:\Users\juanp\source\repos\Poo\mascota\mascota\bin\Debug\mascota.exe.config
+C:\Users\juanp\source\repos\Poo\mascota\mascota\bin\Debug\mascota.exe
+C:\Users\juanp\source\repos\Poo\mascota\mascota\bin\Debug\mascota.pdb
+C:\Users\juanp\source\repos\Poo\mascota\mascota\obj\Debug\mascota.csproj.AssemblyReference.cache
+C:\Users\juanp\source\repos\Poo\mascota\mascota\obj\Debug\mascota.csproj.CoreCompileInputs.cache
+C:\Users\juanp\source\repos\Poo\mascota\mascota\obj\Debug\mascota.exe
+C:\Users\juanp\source\repos\Poo\mascota\mascota\obj\Debug\mascota.pdb
